@@ -9,15 +9,9 @@
     tools:context="cn.itcor.zz.theweatherwidget.MainActivity" >
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
-
-    <TextView
         android:id="@+id/text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="kaishi"
-         />
+        android:text="kaishi" />
 
 </RelativeLayout>
